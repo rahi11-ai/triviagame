@@ -1,0 +1,5 @@
+{
+  "name": "Trivia Master: General Knowledge Quiz",
+  "description": "A multilingual trivia game covering science, history, geography, and more. Supports English and Bangla with offline capabilities.",
+  "requestFramePermissions": []
+}
